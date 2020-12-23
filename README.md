@@ -1,2 +1,2 @@
 # RabbitMQDemo
-rabbitMQ案例
+springBoot + rabbitMQ案例
